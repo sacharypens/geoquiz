@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367ffcee-58f8-49ef-8c0d-9447c73fe238" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/www/css/style.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/js/app.js" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/assets/debug/www/js/todo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/platforms/android/app/build/outputs/apk/debug/app-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/GeoQuiz.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/GeoQuiz.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.js" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/GeoQuiz.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/GeoQuiz.js" />
+      <change beforePath="$PROJECT_DIR$/platforms/browser/www/js/app.js" afterPath="$PROJECT_DIR$/platforms/browser/www/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
       <change beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change beforePath="$PROJECT_DIR$/www/js/GeoQuiz.js" afterPath="$PROJECT_DIR$/www/js/GeoQuiz.js" />
+      <change beforePath="$PROJECT_DIR$/www/js/app.js" afterPath="$PROJECT_DIR$/www/js/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,28 +52,28 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GeoQuiz.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GeoQuiz.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/GeoQuiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="307">
+              <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -61,8 +82,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+            <state relative-caret-position="68">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -84,9 +105,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/www/js/todo.js" />
-        <option value="$PROJECT_DIR$/www/js/app.js" />
         <option value="$PROJECT_DIR$/www/css/eigen.css" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/www/js/app.js" />
         <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/GeoQuiz.js" />
       </list>
     </option>
   </component>
@@ -190,12 +213,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521144590960</updated>
-      <workItem from="1521144592429" duration="3925000" />
+      <workItem from="1521144592429" duration="5237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3925000" />
+    <option name="totallyTimeSpent" value="5237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -240,34 +263,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/GeoQuiz.js">
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state relative-caret-position="307">
+          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/GeoQuiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>
