@@ -3,3 +3,11 @@
 .spa { display: none; }
 
 #tabLogOut { display: block; }
+
+.btn {
+    margin-bottom: 15px;
+}
+
+.col.s6 > .btn {
+    width: 100%;
+}

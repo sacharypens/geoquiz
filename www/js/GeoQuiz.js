@@ -1,6 +1,6 @@
 var GeoQuiz = function () {
 
     return {
-        
+
     };
 }();
